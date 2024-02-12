@@ -30,7 +30,7 @@
 import pandas as pd
 
 # Load the newly uploaded dataset
-file_path_new = 'OnlineRetail.xlsx'
+file_path_new = 'Online Retail.xlsx'
 online_retail_df_new = pd.read_excel(file_path_new)
 
 # Display the first few rows of the dataframe to understand its structure and assess the next steps
